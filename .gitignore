@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+/media
+
+.venv
+/venv
+
+.env
+
+db.sqlite3
